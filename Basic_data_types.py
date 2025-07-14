@@ -3,7 +3,7 @@ print(7 + 5)       # 12
 print(7 - 5)       # 2
 print(7 * 5)       # 35
 print(7 ** 5)      # 16807
-print(7 / 5)       # 1.4
+print(7)       # 1.4
 print(7 % 5)       # 2 (modulo)
 print(7 // 5)      # 1 (integer division)
 
